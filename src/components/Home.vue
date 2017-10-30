@@ -25,6 +25,9 @@
       <div class="column is-3">
         <card icon="fa-gift" title="Backer" link="https://github.com/KongkowITMedan/backer" />
       </div>
+      <div class="column is-3">
+        <card icon="fa-envelope" title="Email" link="mailto:hello@kongkow.club" />
+      </div>
     </div>
   </div>
 </template>
