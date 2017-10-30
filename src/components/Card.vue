@@ -1,9 +1,9 @@
 <template>
   <div class="card">
     <header class="card-header">
-      <p class="card-header-title">
+      <a :href="link" class="card-header-title" target="_blank">
         <i :class="`fa ${icon}`"></i> &nbsp; {{ title }}
-      </p>
+      </a>
       <a :href="link" class="card-header-icon" target="_blank">
         <span class="icon">
           <i class="fa fa-external-link"></i>
