@@ -17,13 +17,13 @@
         <card icon="fa-university" title="Kulgram" link="https://github.com/KongkowITMedan?q=kulgram" />
       </div>
       <div class="column is-3">
-        <card icon="fa-ticket" title="Ticket" link="https://kongkowitmedan.eventbrite.com" />
+        <card icon="fa-ticket" title="Event Ticket" link="https://kongkowitmedan.eventbrite.com" />
       </div>
       <div class="column is-3">
-        <card icon="fa-archive" title="Past Event" link="https://github.com/KongkowITMedan/meetup" />
+        <card icon="fa-archive" title="Event Archive" link="https://kongkowitmedan.github.io/meetup" />
       </div>
       <div class="column is-3">
-        <card icon="fa-gift" title="Backer" link="https://github.com/KongkowITMedan/backer" />
+        <card icon="fa-gift" title="Backer" link="https://kongkowitmedan.github.io/backer" />
       </div>
       <div class="column is-3">
         <card icon="fa-envelope" title="Email" link="mailto:hello@kongkow.club" />
