@@ -26,6 +26,9 @@
         <card icon="fa-gift" title="Backer" link="https://kongkowitmedan.github.io/backer" />
       </div>
       <div class="column is-3">
+        <card icon="fa-money" title="Cash Flow" link="https://docs.google.com/spreadsheets/d/1HlUw3dlsmYStGIcHKQZcoIw1xyXt2imnq8xHwTt4xzs/edit?usp=sharing" />
+      </div>
+      <div class="column is-3">
         <card icon="fa-envelope" title="Email" link="mailto:hello@kongkow.club" />
       </div>
     </div>
